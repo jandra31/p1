@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username   = "root";
 $password   = "0000";
-$dbname     = "PROJECT_DB";
+$dbname     = "QUOTE_DB";
 
 
 // Create connection

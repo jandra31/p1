@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="vendor/bootstrap-4.1.3-dist/css/bootstrap.css">
-    <title>Title of the document</title>
+    <title>Project 1</title>
 </head>
 
 <body class="container-fluid">
