@@ -17,18 +17,21 @@
 </div>
 <div class="row">
     <div class="col-md-8 offset-md-2">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat pulvinar orci, in condimentum est volutpat at.
-        Donec commodo lacus non elit molestie facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        Proin non neque quis nulla molestie interdum. Integer et tortor in purus hendrerit posuere at sed orci. Proin mattis quam ac purus suscipit,
-        at interdum mauris dictum. Morbi arcu tellus, ultricies non libero in, mollis venenatis purus. Sed ac elementum lorem.
+        I'm Juan Ignacio Andrade,
+        <br>
+        I am a CIO for a software and web development startup in Guatemala and look forward to using the knowledge from this course to improve our platform, I'm a BA in computer science from Mercyhurst University.
+        <br>
+        Some of my hobbies include boxing, cooking, and gaming
+        <br>
+        I'm looking forward to the rest of the course
     </div>
 </div>
-<div class="row" style="padding-top: 10px">
+<div class="row" style="padding-top: 10px; padding-bottom: 50px">
     <div class="col-md-8 offset-md-2">
         <div class="col-sm-12 font-weight-bold" style="font-size: large">
             random quote generator:
         </div>
-        <div class="col-sm-10 offset-sm-1" style="padding-top: 20px;">
+        <div class="col-sm-10 offset-sm-1" style="padding-top: 20px; ">
             <?php include 'quote.generator.inc.php'; ?>
         </div>
     </div>

@@ -660,4 +660,9 @@ See 'systemctl status mysql.service' for details.
 
 Ubuntu 16.04.5 LTS ubuntu-xenial ttyS0
 
-ubuntu-xenial login: 
+ubuntu-xenial login: [[0;32m  OK  [0m] Started ACPI event daemon.
+         Stopping LSB: Apache2 web server...
+[[0;32m  OK  [0m] Stopped LSB: Apache2 web server.
+         Starting LSB: Apache2 web server...
+[[0;32m  OK  [0m] Started LSB: Apache2 web server.
+[[0;32m  OK  [0m] Started Daily apt upgrade and clean activities.

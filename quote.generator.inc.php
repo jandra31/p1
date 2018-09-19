@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username   = "root";
 $password   = "0000";
-$dbname     = "FRAMEWORK_DATABASE";
+$dbname     = "PROJECT_DB";
 
 
 // Create connection

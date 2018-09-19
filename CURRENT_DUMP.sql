@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.23, for Linux (x86_64)
 --
--- Host: localhost    Database: FRAMEWORK_DATABASE
+-- Host: localhost    Database: PROJECT_DB
 -- ------------------------------------------------------
 -- Server version	5.7.23-0ubuntu0.16.04.1
 
@@ -37,7 +37,7 @@ CREATE TABLE `QUOTES` (
 
 LOCK TABLES `QUOTES` WRITE;
 /*!40000 ALTER TABLE `QUOTES` DISABLE KEYS */;
-INSERT INTO `QUOTES` VALUES (1,'it is with a heavy heart that i must announce that the celebs are at it again','@dril'),(2,'if your grave doesnt say \"rest in peace\" on it you are automatically drafted into the skeleton war','@dril'),(3,'THERAPIST: your problem is, that youre perfect, and everyone is jealous of your good posts, and that makes you rightfully upset.\r\nME: I agree','@dril'),(4,'awfully bold of you to fly the Good Year blimp on a year that has been extremely bad thus far','@dril'),(5,'I DONT MESS ARROUND, I ONLY MESS UP. <small>im sorry, im trying my best</small>','admin'),(6,'IF THE ZOO BANS ME FOR HOLLERING AT THE ANIMALS I WILL FACE GOD AND WALK BACKWARDS INTO HELL','@dril');
+INSERT INTO `QUOTES` VALUES (1,'Have no fear of perfection, you\'ll never reach it.','Salvador Dali'),(2,'if your grave doesnt say \"rest in peace\" on it you are automatically drafted into the skeleton war','@dril'),(3,'Get busy living or get busy dying.','Stephen King'),(4,'awfully bold of you to fly the Good Year blimp on a year that has been extremely bad thus far','@dril'),(5,'Those who dare to fail miserably can achieve greatly.','John F. Kennedy'),(6,'Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn\'t really do it, the just saw something. It seemed obvious to them after a while.','Steve Jobs');
 /*!40000 ALTER TABLE `QUOTES` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-09-19 16:27:47
+-- Dump completed on 2018-09-19 17:40:02
