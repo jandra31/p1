@@ -19,3 +19,7 @@ the project was built using:
 * [image](https://twitter.com/andajojo/status/921927886633762816)
 * [bootstrap](http://getbootstrap.com/)
 * [php mysql query example](https://www.w3schools.com/Php/php_mysql_select.asp)
+
+---
+### diferences
+only diference btween git project and uploaded version are users and passwords for mysql
